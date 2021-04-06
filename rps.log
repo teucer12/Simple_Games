@@ -1,0 +1,58 @@
+[2020-07-26]app starting up...
+[2020-07-26]Loaded rolls: ['rock', 'paper', 'fire', 'water', 'sponge', 'air', 'scissors'] from rolls.json.
+[2020-07-26]Nate has logged in.
+[2020-07-26]New game starting between Nate and Computer.
+[2020-07-26]Round: Nate roll rock and Computer rolls sponge.
+[2020-07-26]Nate takes the round!
+[2020-07-26]Score is Nate: 1 and Computer: 0.
+[2020-07-26]Round: Nate roll rock and Computer rolls paper.
+[2020-07-26]Computer takes the round!
+[2020-07-26]Score is Nate: 1 and Computer: 1.
+[2020-07-26]Round: Nate roll rock and Computer rolls water.
+[2020-07-26]Computer takes the round!
+[2020-07-26]Score is Nate: 1 and Computer: 2.
+[2020-07-26]Round: Nate roll rock and Computer rolls air.
+[2020-07-26]Computer takes the round!
+[2020-07-26]Score is Nate: 1 and Computer: 3.
+[2020-07-26]Game Over.
+[2020-07-26]app starting up...
+[2020-07-26]Loaded rolls: ['rock', 'paper', 'fire', 'water', 'sponge', 'air', 'scissors'] from rolls.json.
+[2020-07-26]Nate has logged in.
+[2020-07-26]New game starting between Nate and Computer.
+[2020-07-26]Round: Nate roll rock and Computer rolls paper.
+[2020-07-26]Computer takes the round!
+[2020-07-26]Score is Nate: 0 and Computer: 1.
+[2020-07-26]Round: Nate roll rock and Computer rolls fire.
+[2020-07-26]Nate takes the round!
+[2020-07-26]Score is Nate: 1 and Computer: 1.
+[2020-07-26]Round: Nate roll rock and Computer rolls rock.
+[2020-07-26]This round was a tie!
+[2020-07-26]Score is Nate: 1 and Computer: 1.
+[2020-07-26]Round: Nate roll rock and Computer rolls paper.
+[2020-07-26]Computer takes the round!
+[2020-07-26]Score is Nate: 1 and Computer: 2.
+[2020-07-26]Round: Nate roll rock and Computer rolls scissors.
+[2020-07-26]Nate takes the round!
+[2020-07-26]Score is Nate: 2 and Computer: 2.
+[2020-07-26]Round: Nate roll rock and Computer rolls air.
+[2020-07-26]Computer takes the round!
+[2020-07-26]Score is Nate: 2 and Computer: 3.
+[2020-07-26]Game Over.
+[2020-07-26]app starting up...
+[2020-07-26]Loaded rolls: ['rock', 'paper', 'fire', 'water', 'sponge', 'air', 'scissors'] from rolls.json.
+[2020-07-26]Nate has logged in.
+[2020-07-26]New game starting between Nate and Computer.
+[2020-07-26]app starting up...
+[2020-07-26]Loaded rolls: ['rock', 'paper', 'fire', 'water', 'sponge', 'air', 'scissors'] from rolls.json.
+[2020-07-26]Nate has logged in.
+[2020-07-26]New game starting between Nate and Computer.
+[2020-07-26]Round: Nate roll scissors and Computer rolls sponge.
+[2020-07-26]Nate takes the round!
+[2020-07-26]Score is Nate: 1 and Computer: 0.
+[2020-07-26]Round: Nate roll scissors and Computer rolls air.
+[2020-07-26]Nate takes the round!
+[2020-07-26]Score is Nate: 2 and Computer: 0.
+[2020-07-26]Round: Nate roll scissors and Computer rolls sponge.
+[2020-07-26]Nate takes the round!
+[2020-07-26]Score is Nate: 3 and Computer: 0.
+[2020-07-26]Game Over.
